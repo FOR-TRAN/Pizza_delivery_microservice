@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cefc9891-eefd-4425-a423-8375aa12040a" name="Changes" comment="- Добавил основные запросы контроллера и бизнесс-логику&#10;- Добавил запрос пользователя из слоя авторизации&#10;- Добавил маппер&#10;- Добавил перехватчик исключений">
-      <change afterPath="$PROJECT_DIR$/kitchen/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitchen/src/main/java/com/example/kitchen/dto/PizzaRequestDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feedback/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback/src/test/java/com/example/feedback/FeedbackApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback/src/test/java/com/example/feedback/controller/ReviewControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback/src/test/java/com/example/feedback/mapper/ReviewMapperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback/src/test/java/com/example/feedback/service/ReviewServiceImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitchen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kitchen/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitchen/src/main/java/com/example/kitchen/controller/PizzaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/kitchen/src/main/java/com/example/kitchen/controller/PizzaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitchen/src/main/java/com/example/kitchen/service/PizzaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/kitchen/src/main/java/com/example/kitchen/service/PizzaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order_management/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cefc9891-eefd-4425-a423-8375aa12040a" name="Changes" comment="- Добавил основные запросы контроллера и бизнесс-логику&#10;- Добавил запрос пользователя из слоя авторизации&#10;- Добавил маппер&#10;- Добавил перехватчик исключений" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +79,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/MyProjects/Pizza_microseviceApp/kitchen",
@@ -293,9 +277,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-d55de845" />
-        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -322,6 +305,7 @@
       <workItem from="1713437302239" duration="2515000" />
       <workItem from="1713612186008" duration="13635000" />
       <workItem from="1713692430200" duration="7847000" />
+      <workItem from="1714766166374" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1712150661355</created>
